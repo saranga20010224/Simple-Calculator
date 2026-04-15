@@ -7,5 +7,5 @@ Features
 
 Supports +, -, *, /, ^ (power), and % (remainder)
 Input validation with helpful error messages
-# to terminate and $ to reset the session
+'#' to terminate and $ to reset the session
 Handles division errors gracefully
